@@ -13,7 +13,7 @@
 - [ ] (2pts) For popular movies (i.e. a movie voted for more than 5 stars), the full backdrop image is displayed. Otherwise, a poster image, the movie title, and overview is listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones.
 
 ### App Walkthough GIF
-<img src="https://i.imgur.com/MXXWL7n.mp4" width=250><br>
+<img src="https://i.imgur.com/MXXWL7n.gif" width=250><br>
 <img src="https://i.imgur.com/SYTzVx9.gif" width=400><br>
 
 ### Notes
